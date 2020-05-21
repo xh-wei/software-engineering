@@ -15,7 +15,7 @@ create table car(
 create table clock(
 	car_ID char(8),
 	begin_time datetime,
-	begin_place varchar(10),
+	begin_place varchar(10)
 );
 create table book(
 	car_ID char(8),
