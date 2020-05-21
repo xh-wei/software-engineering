@@ -1,0 +1,6 @@
+git pull git_link #第一步，先从github将所有代码拉回来
+git add your_modified_file #添加所有你修改过的文件
+git commit -m 'commit' #说明这次提交做了什么工作，如果有错我们可以恢复，相当于备注功能
+git push #推送到github你的仓库 然后进入github 在我的主页https://github.com/NihaoKangkang/software-engineering 点击pull request然后联系我合并
+
+具体git怎样设置 看https://github.com/NihaoKangkang/try/blob/master/git%20usage.txt 或者去b站找个两小时视频学一下 很快的
